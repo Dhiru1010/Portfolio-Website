@@ -1,0 +1,33 @@
+.button {
+    background-color: yellow;
+    width: auto;
+    margin: 2rem;
+    color: black;
+    padding: 12px 32px;
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: 1px solid white;
+}
+
+.button:hover {
+    background: grey;
+    color: white;
+}
+
+.btn {
+    background-color: transparent;
+    color: white;
+    padding: 12px 32px;
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: 1px solid white;
+}
+
+.btn:hover {
+    background: wheat;
+    color: black;
+}
