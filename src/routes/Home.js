@@ -7,10 +7,10 @@ import Work from '../Components/Work'
 const Home = () => {
     return (
         <div>
-            <Navbar />
+            {/* <Navbar /> */}
             <Heroimg />
-            <Work />
-            <Footer />
+            {/* <Work />
+            <Footer /> */}
         </div>
     )
 }

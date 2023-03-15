@@ -20,6 +20,7 @@
 
 .nav-menu li {
     padding: 0 1rem;
+    list-style-type: none;
 }
 
 .nav-menu li a {
@@ -31,7 +32,7 @@
     display: none;
 }
 
-@media screen and (max-width:1040px) {
+@media screen and (max-width:840px) {
     .nav-menu {
         flex-direction: column;
         justify-content: center;
